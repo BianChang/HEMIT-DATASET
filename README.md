@@ -1,6 +1,6 @@
 # Introduction to the HEMIT Dataset
 
-**Note**: This documentation is prepared for double-blind review. I confirm that no identifying information is included. This document is intended to help reviewers understand the scope and content of the HEMIT dataset. The final version of the MD file, along with the code to use it, will be released upon the camera-ready version of the paper.
+**Note**: This documentation is prepared for double-blind review. I confirm that no identifying information is included. This document is intended to help reviewers understand the scope and content of the HEMIT dataset. The final version of the file, will be released upon the camera-ready version of the paper.
 
 ## Overview
 
@@ -69,6 +69,11 @@ We use several evaluation metrics to assess the performance of our model:
 
 
 The overall training and testing scheme follows the general structure of pix2pix [2]
+
+## Code Availability
+
+The code for implementation of the dual-branch method along with the evaluation scheme can be accessed at:
+Note that the code is for review purposes only and we will release the final version upon camera-ready version of the paper.
 
 ## References
 
