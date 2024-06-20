@@ -72,7 +72,7 @@ The overall training and testing scheme follows the general structure of pix2pix
 
 ## Code Availability
 
-The code for implementation of the dual-branch method along with the evaluation scheme can be accessed at:
+The code for implementation of the dual-branch method along with the evaluation scheme can be accessed at: https://anonymous.4open.science/r/HEMIT-DualBranch-Blind/
 Note that the code is for review purposes only and we will release the final version upon camera-ready version of the paper.
 
 ## References
