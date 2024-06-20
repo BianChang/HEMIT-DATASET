@@ -1,6 +1,6 @@
 # Introduction to the HEMIT Dataset
 
-**Note**: This MD file is prepared for double-blind review. I confirm that no identifying information is included. This document is intended to help reviewers understand the scope and content of the HEMIT dataset. The final version of the MD file, along with the code to use it, will be released upon the camera-ready version of the paper.
+**Note**: This documentation is prepared for double-blind review. I confirm that no identifying information is included. This document is intended to help reviewers understand the scope and content of the HEMIT dataset. The final version of the MD file, along with the code to use it, will be released upon the camera-ready version of the paper.
 
 ## Overview
 
