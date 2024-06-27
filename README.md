@@ -72,12 +72,13 @@ The overall training and testing scheme follows the general structure of pix2pix
 
 ## Code Availability
 
-The code for implementation of the dual-branch method can be accessed at: [Anonymous code for paper review](https://anonymous.4open.science/r/HEMIT-DualBranch-Blind/)
+The code for implementation of the dual-branch method can be accessed at: [Anonymous code for paper review](https://anonymous.4open.science/r/HEMIT-DualBranch-Blind/).
+
 Note that the code is for review purposes only and we will release the final version upon camera-ready version of the paper.
 
 ## References
 
-[1] Bian, Chang, et al. "ImmunoAIzer: a deep learning-based computational framework to characterize cell distribution and gene mutation in tumor microenvironment." Cancers 13.7 (2021): 1659.
+[1] Bian, Chang, et al. "ImmunoAIzer: a deep learning-based computational framework to characterize cell distribution and gene mutation in tumour microenvironment." Cancers 13.7 (2021): 1659.
 
 [2] Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 
