@@ -1,8 +1,6 @@
-# HEMIT Dataset
+![Example Image](images/Cover.png)
 
-![Example Image](images/registration%20viz.png)
-
-## Overview
+## HEMIT Dataset Overview
 This dataset is one of the contributions of our paper:  HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator.
 
 The HEMIT dataset is tailored for image-to-image stain translation. It contains cellular-wise registered H&E and mIHC image pairs, derived from the same sectioning approach to ensure high alignment quality. The raw data is sourced from the ImmunoAIzer work [1], which includes 8 whole slide images (WSIs) from colon cancer patients.
