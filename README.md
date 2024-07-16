@@ -1,8 +1,7 @@
-# Introduction to the HEMIT Dataset
-
-**Note**: This documentation is prepared for double-blind review. I confirm that no identifying information is included. This document is intended to help reviewers understand the scope and content of the HEMIT dataset. The final version of the file, will be released upon the camera-ready version of the paper.
+# HEMIT Dataset
 
 ## Overview
+This dataset is one of the contributions of our paper:  HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator.
 
 The HEMIT dataset is tailored for image-to-image stain translation. It contains cellular-wise registered H&E and mIHC image pairs, derived from the same sectioning approach to ensure high alignment quality. The raw data is sourced from the ImmunoAIzer work [1], which includes 8 whole slide images (WSIs) from colon cancer patients.
 
@@ -72,9 +71,7 @@ The overall training and testing scheme follows the general structure of pix2pix
 
 ## Code Availability
 
-The code for implementation of the dual-branch method can be accessed at: [Anonymous code for paper review](https://anonymous.4open.science/r/HEMIT-DualBranch-Blind/).
-
-Note that the code is for review purposes only and we will release the final version upon camera-ready version of the paper.
+The code for implementation of the dual-branch method can be accessed at: [DualBranch_Pix2pix](https://github.com/BianChang/Pix2pix_DualBranch).
 
 ## References
 
@@ -82,3 +79,8 @@ Note that the code is for review purposes only and we will release the final ver
 
 [2] Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 
+## Citation
+
+If you use this code or dataset in your research, please cite our work. The paper has been accepted by the 5th International Workshop on Multiscale Multimodal Medical Imaging (MMMI 2024) and The 1st Workshop on Machine Learning for Multimodal/-sensor Healthcare Data (ML4MHD 2024). 
+
+We will provide full citation details once it is published. Please check back later for the complete citation information.
