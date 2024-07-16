@@ -5,6 +5,9 @@ This dataset is one of the contributions of our paper:  HEMIT: H&E to Multiplex-
 
 The HEMIT dataset is tailored for image-to-image stain translation. It contains cellular-wise registered H&E and mIHC image pairs, derived from the same sectioning approach to ensure high alignment quality. The raw data is sourced from the ImmunoAIzer work [1], which includes 8 whole slide images (WSIs) from colon cancer patients.
 
+## Dataset Download
+
+The full dataset can be downloaded from [HEMIT Dataset](https://data.mendeley.com/preview/3gx53zm49d?a=6aeec82e-1488-4efb-924d-15617165c2e0).
 
 ## Dataset Details
 
