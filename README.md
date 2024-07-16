@@ -1,5 +1,7 @@
 # HEMIT Dataset
 
+![Example Image](images/registration%20viz.png)
+
 ## Overview
 This dataset is one of the contributions of our paper:  HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator.
 
