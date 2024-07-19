@@ -7,7 +7,7 @@ The HEMIT dataset is tailored for image-to-image stain translation. It contains 
 
 ## Dataset Download
 
-The full dataset can be downloaded from [HEMIT Dataset](https://data.mendeley.com/preview/3gx53zm49d?a=6aeec82e-1488-4efb-924d-15617165c2e0).
+We have uploaded the dataset to Mendeley Data platform, it is currently under review by the Mendeley Team, and we will update the download link once the review is complete.
 
 ## Dataset Details
 
