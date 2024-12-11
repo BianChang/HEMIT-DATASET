@@ -84,6 +84,8 @@ The code for implementation of the dual-branch method can be accessed at: [DualB
 
 ## Citation
 
-If you use this code or dataset in your research, please cite our work. The paper has been accepted by the 5th International Workshop on Multiscale Multimodal Medical Imaging (MMMI 2024) and The 1st Workshop on Machine Learning for Multimodal/-sensor Healthcare Data (ML4MHD 2024). 
+If you use this code or dataset in your research, please cite the following work:
 
-We will provide full citation details once it is published. Please check back later for the complete citation information.
+[1] Bian C, Philips B, Cootes T, et al. HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator[J]. arXiv preprint arXiv:2403.18501, 2024.
+
+[2] Bian C, Wang Y, Lu Z, et al. Immunoaizer: A deep learning-based computational framework to characterize cell distribution and gene mutation in tumor microenvironment[J]. Cancers, 2021, 13(7): 1659.
